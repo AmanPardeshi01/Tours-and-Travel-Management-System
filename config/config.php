@@ -1,5 +1,5 @@
 <?php
-
+ 
 try {
     //HOST
     define("HOST", "localhost");
